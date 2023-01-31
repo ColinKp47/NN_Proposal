@@ -11,9 +11,9 @@ I would like to train neural nets to estimate the nation that is home to a provi
 Ultimately, I would like to see a tool like this be used to evaluate and understand current infrastructure while guiding future decisions. 
 
 # Goals
-Collect and label large datasets
+Collect and label large dataset of city grid maps
 
-Explore correlations to link to map datasets
+Explore social/infrastructure data to correlations to link to map datasets
 
 Train model to make inferences about a location based on street grid layout
 
