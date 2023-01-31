@@ -1,4 +1,4 @@
-# Identifying Region from City Grid Organization
+# Identifying Characteristics from City Grid Organization
 
 <img width="644" alt="Screen Shot 2023-01-30 at 10 13 54 PM" src="https://user-images.githubusercontent.com/89942899/215681734-ad2cc618-196e-4d10-b930-ff24a96196ff.png">
 <img width="623" alt="Screen Shot 2023-01-30 at 10 13 15 PM" src="https://user-images.githubusercontent.com/89942899/215681736-236a4ad4-568a-468b-9fd5-1c04a8176aec.png">
@@ -11,6 +11,10 @@ I would like to train neural nets to estimate the nation that is home to a provi
 Ultimately, I would like to see a tool like this be used to evaluate and understand current infrastructure while guiding future decisions. 
 
 # Goals
--Collect and label large datasets
--Explore correlations to link to map datasets
--Train model to make inferences about a location based on street grid layout
+Collect and label large datasets
+
+Explore correlations to link to map datasets
+
+Train model to make inferences about a location based on street grid layout
+
+Explore possible further applications
